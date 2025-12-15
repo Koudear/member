@@ -1,0 +1,242 @@
+{
+  "neutral": {
+    "gray-1": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "gray-2": {
+      "value": "#F2F3F4",
+      "type": "color"
+    },
+    "gray-3": {
+      "value": "#f5f5f5",
+      "type": "color"
+    },
+    "gray-4": {
+      "value": "#D9DBDD",
+      "type": "color"
+    },
+    "gray-5": {
+      "value": "#CCCF",
+      "type": "color"
+    },
+    "gray-6": {
+      "value": "#B2B7BC",
+      "type": "color"
+    },
+    "gray-7": {
+      "value": "#999FA5",
+      "type": "color"
+    },
+    "gray-8": {
+      "value": "#4D5862",
+      "type": "color"
+    },
+    "gray-9": {
+      "value": "#00101F",
+      "type": "color"
+    },
+    "gray-10": {
+      "value": "#00070F",
+      "type": "color"
+    }
+  },
+  "brand": {
+    "blue-1": {
+      "value": "#EFF5FF",
+      "type": "color"
+    },
+    "blue-2": {
+      "value": "#EFF5FF",
+      "type": "color"
+    },
+    "blue-3": {
+      "value": "#82CFFF",
+      "type": "color"
+    },
+    "blue-4": {
+      "value": "#59BAFF",
+      "type": "color"
+    },
+    "blue-5": {
+      "value": "#30A2FF",
+      "type": "color"
+    },
+    "blue-6": {
+      "value": "#0888FF",
+      "type": "color"
+    },
+    "blue-7": {
+      "value": "#0069D9",
+      "type": "color"
+    },
+    "blue-8": {
+      "value": "#0050b3",
+      "type": "color"
+    },
+    "blue-9": {
+      "value": "#003a8c",
+      "type": "color"
+    },
+    "blue-10": {
+      "value": "#002766",
+      "type": "color"
+    },
+    "blue-0": {
+      "value": "#F9FBFC",
+      "type": "color"
+    }
+  },
+  "accent": {
+    "green-1": {
+      "value": "#73d13d",
+      "type": "color"
+    },
+    "red-1": {
+      "value": "#ff4d4f",
+      "type": "color"
+    },
+    "yellow-1": {
+      "value": "#ffa940",
+      "type": "color"
+    },
+    "blue-1": {
+      "value": "#0888FF",
+      "type": "color"
+    }
+  },
+  "size": {
+    "scale-24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "scale-32": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "scale-48": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "scale-64": {
+      "value": "64",
+      "type": "sizing"
+    },
+    "scale-40": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "scale-80": {
+      "value": "80",
+      "type": "sizing"
+    },
+    "scale-280": {
+      "value": "280",
+      "type": "sizing"
+    },
+    "scale-390": {
+      "value": "390",
+      "type": "sizing"
+    }
+  },
+  "space": {
+    "scale-2": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "scale-4": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "scale-8": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "scale-12": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "scale-16": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "scale-24": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "scale-32": {
+      "value": "32",
+      "type": "spacing"
+    }
+  },
+  "radius": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "s": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "m": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "l": {
+      "value": "12",
+      "type": "borderRadius"
+    },
+    "full": {
+      "value": "999",
+      "type": "borderRadius"
+    }
+  },
+  "border width": {
+    "s": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "m": {
+      "value": "2",
+      "type": "borderWidth"
+    }
+  },
+  "fontFamily": {
+    "en": {
+      "value": "Figtree",
+      "type": "fontFamilies"
+    },
+    "ja": {
+      "value": "Noto Sans JP",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeight": {
+    "Regular": {
+      "value": "400",
+      "type": "fontWeights"
+    },
+    "SemiBold": {
+      "value": "600",
+      "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "700",
+      "type": "fontWeights"
+    }
+  },
+  "lineHeight": {
+    "tight": {
+      "value": "1.2",
+      "type": "lineHeights"
+    },
+    "normal": {
+      "value": "1.5",
+      "type": "lineHeights"
+    },
+    "loose": {
+      "value": "1.6",
+      "type": "lineHeights"
+    }
+  }
+}
